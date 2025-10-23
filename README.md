@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-**I am 19 years old, full stack developer, 4 years experience of Minecraft plugin development, worked with many servers such as DevRoom and Candor Studios, high knowledge in NMS and different databases (SQLite, MongoDB, MySQL, etc...)**
+**Motivated and self-driven Software Engineer with 4+ years of hands-on experience in software development and a strong foundation in
+computer engineering. Passionate about designing, prototyping, and testing modern web and backend applications. Adept at problemsolving, learning new technologies quickly, and collaborating in team environments to deliver efficient and scalable software solutions.
+**
 
 Here are some ideas to get you started:
 
