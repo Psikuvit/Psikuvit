@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 **Motivated and self-driven Software Engineer with 4+ years of hands-on experience in software development and a strong foundation in
-computer engineering. Passionate about designing, prototyping, and testing modern web and backend applications. Adept at problemsolving, learning new technologies quickly, and collaborating in team environments to deliver efficient and scalable software solutions.
-**
+computer engineering. Passionate about designing, prototyping, and testing modern web and backend applications. Adept at problemsolving, learning new technologies quickly, and collaborating in team environments to deliver efficient and scalable software solutions.**
 
 Here are some ideas to get you started:
 
